@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 1rem;
+}
+h1{
+    text-align: center;
+}
+
+
+
+.list.main{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 15rem;
+    list-style-position:
+    inside;
+    background: white;
+	box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+	border-radius: 1rem;
+}
+.list.main li {
+	padding: 0.5rem;
+}
