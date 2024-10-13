@@ -7,6 +7,15 @@ body{
 h1,h2,p{
     text-align: center;
 }
+.main_menu_button{
+    background-color: lightgray;
+    padding: 10px;
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: large;
+}
 
 .list.main{
     font-family: 'Courier New', Courier, monospace;
